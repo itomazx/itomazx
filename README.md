@@ -3,8 +3,6 @@ Android Enthusiasm
 
 Poco X3 Pro 📱
 
-Telegram Channel: <a href="https://t.me/itomazx_channelp">Click Here</a>
-
 <!--
 **itomazx/itomazx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
